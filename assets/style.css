@@ -1,9 +1,31 @@
 body {
     background-image: url('interlaced.png');
+    
 }
 
 .conatiner {
-    background-color: white;
     
+    
+}
+
+h1 {
+    color: #4aaaa5;
+    font-size: 36px;
+    
+
+    
+}
+
+#navName {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 5px;
+
+    
+
+}
+
+.top-buffer {
+    margin-top: 20px;
 }
 
